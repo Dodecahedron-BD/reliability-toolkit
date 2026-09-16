@@ -1,0 +1,9 @@
+__pycache__
+[D[A[A[B[C[C[C[C[C[C[C[C[C[C[C/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
